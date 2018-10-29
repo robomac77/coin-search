@@ -1,0 +1,12 @@
+{
+    //"database=mongodb database name;server=xx.xx.xx.xx;user id=xx;Password=xx;sslmode=None"
+    "mysql": {
+      "database": "block",
+      "server": "xx.xx.xx.xx",
+      "user id": "xx",
+      "Password": "xx",
+      "sslmode": "None"
+    },
+    "startblock": 0,
+    "startNetType": "testnet"
+  }

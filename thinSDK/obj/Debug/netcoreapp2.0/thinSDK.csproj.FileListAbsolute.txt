@@ -1,0 +1,56 @@
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.deps.json
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.pdb
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\llvm.dll
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.dll
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\llvm.pdb
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.pdb
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csprojAssemblyReference.cache
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CoreCompileInputs.cache
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfoInputs.cache
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfo.cs
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CopyComplete
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhan_git\neo-thinsdk-cs\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.pdb
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.deps.json
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.pdb
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\llvm.dll
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.dll
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\llvm.pdb
+E:\lizhantest\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.pdb
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csprojAssemblyReference.cache
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CoreCompileInputs.cache
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfoInputs.cache
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfo.cs
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CopyComplete
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhantest\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.pdb
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.deps.json
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.pdb
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\llvm.dll
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.dll
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\llvm.pdb
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.pdb
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csprojAssemblyReference.cache
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CoreCompileInputs.cache
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfoInputs.cache
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfo.cs
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CopyComplete
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.dll
+E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.pdb
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.deps.json
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.dll
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\thinSDK.pdb
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\llvm.dll
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.dll
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\llvm.pdb
+D:\Software Development\Projects\FindCoin-master\thinSDK\bin\Debug\netcoreapp2.0\thinSDK_neo.pdb
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csprojAssemblyReference.cache
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfoInputs.cache
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.AssemblyInfo.cs
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.csproj.CopyComplete
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.dll
+D:\Software Development\Projects\FindCoin-master\thinSDK\obj\Debug\netcoreapp2.0\thinSDK.pdb

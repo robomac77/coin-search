@@ -1,0 +1,12 @@
+﻿ Using a reference like a value or vice versa
+ Misunderstanding default values for uninitialized variables
+ Using improper or unspecified string comparison methods
+ Using iterative (instead of declarative) statements to manipulate collections
+ Failing to consider the underlying objects in a LINQ statement
+ Using the wrong type of collection for the task at hand
+ Neglecting to free resources
+ Shying away from exceptions
+ Allowing compiler warnings to accumulate
+
+
+ Common Exceptions

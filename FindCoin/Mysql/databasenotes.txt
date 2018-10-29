@@ -1,0 +1,12 @@
+﻿Tables =>
+address
+address_tx
+asset
+block
+block_sysfee
+nep5asset
+nep5transfer
+notify
+system_counter
+tx
+utxo
