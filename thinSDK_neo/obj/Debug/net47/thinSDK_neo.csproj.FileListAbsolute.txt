@@ -481,326 +481,164 @@ E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK_neo\obj\Debug\net47\th
 E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CopyComplete
 E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK_neo\obj\Debug\net47\thinSDK_neo.dll
 E:\lizhan_git\Transaction_Test\InvokeContractTest\thinSDK_neo\obj\Debug\net47\thinSDK_neo.pdb
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\x86\e_sqlite3.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\x64\e_sqlite3.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\thinSDK_neo.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Features.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Https.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebSockets.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebUtilities.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Data.Sqlite.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Memory.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Json.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Hosting.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.ObjectPool.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Options.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Net.Http.Headers.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Newtonsoft.Json.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Remotion.Linq.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Replicon.Cryptography.SCrypt.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_green.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_v2.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.core.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Buffers.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Immutable.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Annotations.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.DiagnosticSource.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Interactive.Async.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Numerics.Vectors.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Metadata.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.Unsafe.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encodings.Web.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Algorithms.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ValueTuple.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Win32.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\netstandard.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.AppContext.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Concurrent.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.NonGeneric.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Specialized.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.EventBasedAsync.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.TypeConverter.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Console.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Data.Common.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Contracts.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Debug.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.FileVersionInfo.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Process.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.StackTrace.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TextWriterTraceListener.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tools.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TraceSource.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tracing.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Drawing.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Dynamic.Runtime.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Calendars.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.ZipFile.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.DriveInfo.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Watcher.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.IsolatedStorage.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.MemoryMappedFiles.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Pipes.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.UnmanagedMemoryStream.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Expressions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Parallel.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Queryable.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Http.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NameResolution.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NetworkInformation.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Ping.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Requests.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Security.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Sockets.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebHeaderCollection.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.Client.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ObjectModel.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Reader.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.ResourceManager.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Writer.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.VisualC.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Handles.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Numerics.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Formatters.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Json.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Xml.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Claims.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Csp.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Encoding.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Primitives.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.X509Certificates.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Principal.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.SecureString.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.Extensions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.RegularExpressions.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Overlapped.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Parallel.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Thread.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.ThreadPool.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Timer.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.ReaderWriter.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XDocument.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlDocument.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlSerializer.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.XDocument.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csprojAssemblyReference.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CoreCompileInputs.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfoInputs.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfo.cs
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CopyComplete
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\x86\e_sqlite3.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\x64\e_sqlite3.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\thinSDK_neo.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Features.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Core.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Https.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebSockets.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebUtilities.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Data.Sqlite.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Memory.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Json.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Hosting.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.ObjectPool.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Options.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Net.Http.Headers.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Newtonsoft.Json.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Remotion.Linq.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Replicon.Cryptography.SCrypt.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_green.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_v2.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.core.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Buffers.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Immutable.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Annotations.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.DiagnosticSource.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Interactive.Async.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Numerics.Vectors.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Metadata.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.Unsafe.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encodings.Web.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Algorithms.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ValueTuple.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Win32.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\netstandard.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.AppContext.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Concurrent.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.NonGeneric.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Specialized.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.EventBasedAsync.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.TypeConverter.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Console.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Data.Common.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Contracts.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Debug.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.FileVersionInfo.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Process.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.StackTrace.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TextWriterTraceListener.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tools.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TraceSource.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tracing.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Drawing.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Dynamic.Runtime.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Calendars.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.ZipFile.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.DriveInfo.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Watcher.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.IsolatedStorage.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.MemoryMappedFiles.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Pipes.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.UnmanagedMemoryStream.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Expressions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Parallel.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Queryable.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Http.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NameResolution.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NetworkInformation.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Ping.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Requests.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Security.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Sockets.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebHeaderCollection.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.Client.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ObjectModel.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Reader.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.ResourceManager.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Writer.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.VisualC.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Handles.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Numerics.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Formatters.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Json.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Xml.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Claims.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Csp.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Encoding.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Primitives.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.X509Certificates.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Principal.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.SecureString.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.Extensions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.RegularExpressions.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Overlapped.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Parallel.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Thread.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.ThreadPool.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Timer.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.ReaderWriter.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XDocument.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlDocument.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlSerializer.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.XDocument.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csprojAssemblyReference.cache
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CoreCompileInputs.cache
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfoInputs.cache
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfo.cs
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CopyComplete
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\thinSDK_neo.pdb
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\DnsClient.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\MongoDB.Bson.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\MongoDB.Driver.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\bin\Debug\net47\MongoDB.Driver.Core.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.dll
-D:\Software Development\Projects\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\x86\e_sqlite3.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\x64\e_sqlite3.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\thinSDK_neo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\thinSDK_neo.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Http.Features.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebSockets.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.AspNetCore.WebUtilities.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Data.Sqlite.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Caching.Memory.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Configuration.Json.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.ObjectPool.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Options.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Extensions.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Net.Http.Headers.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Newtonsoft.Json.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Remotion.Linq.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Replicon.Cryptography.SCrypt.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_green.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.batteries_v2.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.core.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Buffers.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Immutable.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Annotations.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.DiagnosticSource.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Interactive.Async.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Numerics.Vectors.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Metadata.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encodings.Web.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Algorithms.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ValueTuple.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\Microsoft.Win32.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\netstandard.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.AppContext.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Concurrent.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.NonGeneric.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Collections.Specialized.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.EventBasedAsync.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ComponentModel.TypeConverter.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Console.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Data.Common.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Contracts.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Debug.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.FileVersionInfo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Process.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.StackTrace.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TextWriterTraceListener.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tools.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.TraceSource.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Diagnostics.Tracing.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Drawing.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Dynamic.Runtime.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Calendars.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Globalization.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Compression.ZipFile.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.DriveInfo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.FileSystem.Watcher.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.IsolatedStorage.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.MemoryMappedFiles.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.Pipes.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.IO.UnmanagedMemoryStream.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Expressions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Parallel.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Linq.Queryable.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Http.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NameResolution.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.NetworkInformation.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Ping.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Requests.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Security.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.Sockets.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebHeaderCollection.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.Client.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Net.WebSockets.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.ObjectModel.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Reflection.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Reader.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.ResourceManager.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Resources.Writer.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.CompilerServices.VisualC.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Handles.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.InteropServices.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Numerics.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Formatters.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Json.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Runtime.Serialization.Xml.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Claims.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Csp.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Encoding.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.Primitives.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Cryptography.X509Certificates.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.Principal.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Security.SecureString.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.Encoding.Extensions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Text.RegularExpressions.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Overlapped.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Tasks.Parallel.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Thread.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.ThreadPool.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Threading.Timer.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.ReaderWriter.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XDocument.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlDocument.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XmlSerializer.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\bin\Debug\net47\System.Xml.XPath.XDocument.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csprojAssemblyReference.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfoInputs.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.AssemblyInfo.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.csproj.CopyComplete
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\thinSDK_neo\obj\Debug\net47\thinSDK_neo.pdb

@@ -34,7 +34,8 @@ namespace FindCoin.Block
                 slist.Add(jObject["txid"].ToString());
                 slist.Add(Helper.blockHeight.ToString());
                 slist.Add(Helper.blockTime.ToString());
-                MysqlConn.ExecuteDataInsert("address_tx", slist);
+				
+				MysqlConn.ExecuteDataInsert("address_tx", slist);
             }           
 
             //File.Delete(path);

@@ -34,8 +34,7 @@ namespace FindCoin.Block
                 var json = JObject.Parse(info);
                 result = json["result"];
             }
-            catch (Exception e) // Delete Exception e 
-            {                          
+            catch (Exception e) {
                 LogHelper.printLog("txid " + jToken["txid"] + " has 500");
             }            
             if (result != null) {
@@ -71,7 +70,7 @@ namespace FindCoin.Block
                             SaveNEP5Asset.getInstance().Save(nep5, null);
 
                             //存储Nep5Transfer内容
-                            JObject tx = new JObject(); // saves the nep5 transfer data
+                            JObject tx = new JObject();
                             tx["blockindex"] = Helper.blockHeight;
                             tx["txid"] = jToken["txid"].ToString();
                             tx["n"] = 0;

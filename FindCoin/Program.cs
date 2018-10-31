@@ -17,12 +17,7 @@ namespace FindCoin
         /// </summary>
         private static void InitTask() {
             Config.loadConfig("mysqlConfig.json");
-            //Load mongodb configuration file
-            //Config.loadConfig("MongoDBConfig.json")
             AddTask(new FindBlock("block"));
-
-
-            
         }
 
         /// <summary>

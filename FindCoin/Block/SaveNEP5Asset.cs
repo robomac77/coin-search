@@ -12,7 +12,7 @@ using ThinNeo;
 using Hash160 = ThinNeo.Hash160;
 using Helper = FindCoin.thinneo.Helper;
 
-namespace FindCoin.Block                                      // Add a get asset state
+namespace FindCoin.Block
 {
     class SaveNEP5Asset:ISave
     {
@@ -74,7 +74,7 @@ namespace FindCoin.Block                                      // Add a get asset
             string symbol = Encoding.UTF8.GetString(ThinNeo.Helper.HexString2Bytes(results[2]["value"].ToString()));
             string decimals = Encoding.UTF8.GetString(ThinNeo.Helper.HexString2Bytes(results[3]["value"].ToString()));
 
-            List<string> slist = new List<string>();     // adds the various properties of the asset to the list
+            List<string> slist = new List<string>();
             slist.Add(Contract.ToString());
             slist.Add(totalSupply);
             slist.Add(name);

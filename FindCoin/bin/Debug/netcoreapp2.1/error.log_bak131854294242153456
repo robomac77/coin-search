@@ -1,0 +1,22 @@
+10/31/2018 11:14:57 AM [main] *** Start to run FindCoin
+10/31/2018 11:14:57 AM [main] *** Auth:tsc
+10/31/2018 11:14:57 AM [main] *** Version:0.0.0.1
+10/31/2018 11:14:57 AM [main] *** CreateDate:2018-07-25
+10/31/2018 11:14:57 AM [main] *** LastModify:2018-08-08
+10/31/2018 11:14:59 AM [block3] errinfo:
+10/31/2018 11:14:59 AM [block3] MySql.Data.MySqlClient.MySqlException
+10/31/2018 11:14:59 AM [block3] Column count doesn't match value count at row 1
+10/31/2018 11:14:59 AM [block3]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FindCoin.Mysql.MysqlConn.ExecuteDataInsert(String tableName, List`1 parameter) in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Mysql\MysqlConn.cs:line 42
+   at FindCoin.Block.SaveAddressTransaction.Save(JToken jObject, String path) in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\SaveAddressTransaction.cs:line 37
+   at FindCoin.Block.SaveTransaction.Save(JToken jObject, String path) in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\SaveTransaction.cs:line 63
+   at FindCoin.Block.SaveBlock.Save(JToken jObject, String path) in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\SaveBlock.cs:line 54
+   at FindCoin.Block.FindBlock.getBlockFromRpc() in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\FindBlock.cs:line 76
+   at FindCoin.Block.FindBlock.run() in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\FindBlock.cs:line 50
+   at FindCoin.Block.FindBlock.startTask() in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\Block\FindBlock.cs:line 30
+   at FindCoin.core.ContractTask.Start() in D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\core\ContractTask.cs:line 61

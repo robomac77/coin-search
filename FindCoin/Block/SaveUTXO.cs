@@ -58,7 +58,7 @@ namespace FindCoin.Block
         }
 
         public void ChangeUTXO(string txid, string voutNum) {
-            Dictionary<string, string> dirs = new Dictionary<string, string>();  
+            Dictionary<string, string> dirs = new Dictionary<string, string>();
             dirs.Add("used", "1");
             dirs.Add("useHeight", Helper.blockHeight.ToString());
             Dictionary<string, string> where = new Dictionary<string, string>();
@@ -74,7 +74,7 @@ namespace FindCoin.Block
 
         }
 
-        public Dictionary<string, List<Utxo>> getUTXO(string address) {     // A class that parses the utxo data downloaded and stores it in a file
+        public Dictionary<string, List<Utxo>> getUTXO(string address) {
             Dictionary<string, List<Utxo>> dir = new Dictionary<string, List<Utxo>>();
             var path = Directory.GetCurrentDirectory();
             

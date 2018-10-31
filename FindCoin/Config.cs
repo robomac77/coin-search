@@ -27,7 +27,7 @@ namespace FindCoin
         
         private static void initDb()
         {
-            JObject mysql = config["mysql"] as JObject;     
+            JObject mysql = config["mysql"] as JObject;
             foreach (var mq in mysql) {
                 MysqlConn.conf += mq.Key + "=" + mq.Value;
                 MysqlConn.conf += ";";

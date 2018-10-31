@@ -10,7 +10,7 @@ namespace FindCoin.Mysql
     {
         public static string conf = "";
 
-        public static DataSet ExecuteDataSet(string tableName, Dictionary<string, string> where) {   // class to retrieve data from database
+        public static DataSet ExecuteDataSet(string tableName, Dictionary<string, string> where) {
             using (MySqlConnection conn = new MySqlConnection(conf)) {
                 conn.Open();
                 string select = "select * from " + tableName + " where";
@@ -27,19 +27,19 @@ namespace FindCoin.Mysql
             }
         }
 
-        public static int ExecuteDataInsert(string tableName, List<string> parameter)    // class to persist data into database
+        public static int ExecuteDataInsert(string tableName, List<string> parameter)
         {
             using (MySqlConnection conn = new MySqlConnection(conf))
             {
                 conn.Open();
-                string mysql = $"insert into " + tableName + " values (null,"; //
+                string mysql = $"insert into " + tableName + " values (null,";
                 foreach (string param in parameter) {
                     mysql += "'" + param + "',";
                 }               
-                mysql = mysql.Substring(0, mysql.Length - 1);  
+                mysql = mysql.Substring(0, mysql.Length - 1);
                 mysql += ");";
                 MySqlCommand mc = new MySqlCommand(mysql, conn);
-                int count = mc.ExecuteNonQuery(); 
+                int count = mc.ExecuteNonQuery();
                 return count;
             }
         }
@@ -47,7 +47,7 @@ namespace FindCoin.Mysql
         /// <summary>
         /// 插入多条数据
         /// </summary>
-        public static void InsertCollection(MySqlConnection connection)    // unused method , why was the method created
+        public static void InsertCollection(MySqlConnection connection)
         {
             connection.Open();
             MySqlCommand command = new MySqlCommand();
@@ -57,7 +57,7 @@ namespace FindCoin.Mysql
             command.Parameters.Add("?name", MySqlDbType.VarChar);
             command.Parameters.Add("?birthday", MySqlDbType.DateTime);
 
-            for (int x = 0; x < 30; x++)               // why is 30 used here?
+            for (int x = 0; x < 30; x++)
             {
                 command.Parameters[0].Value = "name" + x;
                 command.Parameters[1].Value = DateTime.Now;
@@ -71,7 +71,7 @@ namespace FindCoin.Mysql
         /// <summary>
         /// 修改数据
         /// </summary>
-        public static int Update(string tableName, Dictionary<string, string> dirs, Dictionary<string, string> where)     //  Used to update data in the database
+        public static int Update(string tableName, Dictionary<string, string> dirs, Dictionary<string, string> where)
         {
             using (MySqlConnection conn = new MySqlConnection(conf))
             {

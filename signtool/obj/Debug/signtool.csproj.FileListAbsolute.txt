@@ -64,25 +64,48 @@ E:\lizhan_git\Transaction_Test\InvokeContractTest\signtool\obj\Debug\signtool.cs
 E:\lizhan_git\Transaction_Test\InvokeContractTest\signtool\obj\Debug\signtool.csproj.CopyComplete
 E:\lizhan_git\Transaction_Test\InvokeContractTest\signtool\obj\Debug\signtool.exe
 E:\lizhan_git\Transaction_Test\InvokeContractTest\signtool\obj\Debug\signtool.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\signtool.exe.config
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\signtool.exe
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\signtool.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\thinSDK.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\thinSDK_neo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\llvm.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\thinSDK.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\thinSDK_neo.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\bin\Debug\llvm.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.csprojAssemblyReference.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\Dialog Import_Nep6.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\Dialog Input.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_MultiSign.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_importTX.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_exportTX.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\MainWindow.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\App.g.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool_MarkupCompile.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool_MarkupCompile.lref
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\Dialog Import_Nep6.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\Dialog Input.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_MultiSign.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_importTX.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\dialog\dialog_exportTX.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\MainWindow.baml
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.g.resources
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.Properties.Resources.resources
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.csproj.GenerateResource.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.csproj.CopyComplete
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.exe
+D:\Software Development\Projects\new findcoin\FindCoin-master\signtool\obj\Debug\signtool.pdb
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\signtool.exe.config
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\signtool.exe
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\signtool.pdb
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\DnsClient.dll
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Bson.dll
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Driver.Core.dll
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Driver.dll
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\System.Buffers.dll
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\thinSDK.dll
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\thinSDK_neo.dll
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\llvm.dll
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\System.Security.Cryptography.Algorithms.dll
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\thinSDK.pdb
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\thinSDK_neo.pdb
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\DnsClient.xml
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Bson.xml
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Driver.xml
-D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\MongoDB.Driver.Core.xml
 D:\Software Development\Projects\FindCoin-master\signtool\bin\Debug\llvm.pdb
 D:\Software Development\Projects\FindCoin-master\signtool\obj\Debug\signtool.csprojAssemblyReference.cache
 D:\Software Development\Projects\FindCoin-master\signtool\obj\Debug\dialog\Dialog Import_Nep6.g.cs

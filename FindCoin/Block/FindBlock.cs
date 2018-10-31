@@ -43,11 +43,11 @@ namespace FindCoin.Block
                 if (Helper.blockHeight > Helper.blockHeightMax)
                 {
                     Console.WriteLine("wait for next block...sleep fifteen seconds");
-                    Thread.Sleep(15 * 1000); // why is it necesary to make the thread sleep in between block generations.
+                    Thread.Sleep(15 * 1000);
                     continue;
                 }
 
-                getBlockFromRpc();       
+                getBlockFromRpc();
 
                 ping();
 
@@ -60,17 +60,12 @@ namespace FindCoin.Block
 
         private void getBlockFromRpc() {
             JToken result = null;
-			JToken height = null;
             try
             {
                 var getcounturl = Helper.url + "?jsonrpc=2.0&id=1&method=getblock&params=[" + Helper.blockHeight + ",1]";
-				var getheighturl = Helper.url + "?jsonrpc=2.0&id=1&method=getblockcount&params=[]";
-				var info = wc.DownloadString(getcounturl);
-				var heightinfo = wc.DownloadString(getheighturl);
-				var json = JObject.Parse(info);
-				var hj = JObject.Parse(heightinfo);
-				result = json["result"];
-				height = hj["result"];
+                var info = wc.DownloadString(getcounturl);
+                var json = JObject.Parse(info);
+                result = json["result"];              
             }
             catch (Exception e)
             {

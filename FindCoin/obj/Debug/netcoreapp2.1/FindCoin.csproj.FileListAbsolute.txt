@@ -1,16 +1,42 @@
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\llvm.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.exe
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK_neo.dll
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csprojAssemblyReference.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csproj.CoreCompileInputs.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfoInputs.cache
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfo.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.deps.json
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.runtimeconfig.json
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.runtimeconfig.dev.json
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\llvm.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.exe
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK_neo.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\llvm.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK_neo.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.pdb
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.exe.config
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csprojAssemblyReference.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csproj.CoreCompileInputs.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfoInputs.cache
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfo.cs
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csproj.CopyComplete
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.dll
+D:\Software Development\Projects\new findcoin\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.pdb
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.deps.json
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.runtimeconfig.json
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.runtimeconfig.dev.json
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.dll
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\FindCoin.pdb
 D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\llvm.dll
 D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.exe
 D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK.dll
 D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK_neo.dll
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\llvm.pdb
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK.pdb
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\thinSDK_neo.pdb
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.pdb
+D:\Software Development\Projects\FindCoin-master\FindCoin\bin\Debug\netcoreapp2.1\signtool.exe.config
 D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csprojAssemblyReference.cache
 D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csproj.CoreCompileInputs.cache
 D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfoInputs.cache
 D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.AssemblyInfo.cs
+D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.csproj.CopyComplete
+D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.dll
+D:\Software Development\Projects\FindCoin-master\FindCoin\obj\Debug\netcoreapp2.1\FindCoin.pdb

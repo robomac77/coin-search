@@ -13,7 +13,7 @@ namespace FindCoin.Block
     class SaveAddress : ISave
     {
 
-        private static readonly SaveAddress instance = null; // (Mark as readonly)
+        private static SaveAddress instance = null;
         public static SaveAddress getInstance()
         {
             if (instance == null)
@@ -42,18 +42,16 @@ namespace FindCoin.Block
                 {
                     JObject result = new JObject();
                     result["addr"] = j["address"];
-                    result["firstuse"] = Helper.blockTime;
-                    result["lastuse"] = Helper.blockTime;
+                    result["firstuse"] = Helper.blockHeight;
+                    result["lastuse"] = Helper.blockHeight;
                     result["txcount"] = 1;
 
                     List<string> slist = new List<string>();
                     slist.Add(j["address"].ToString());
-                    slist.Add(Helper.blockTime.ToString());
-                    slist.Add(Helper.blockTime.ToString());
+                    slist.Add(Helper.blockHeight.ToString());
+                    slist.Add(Helper.blockHeight.ToString());
                     slist.Add("1");
-
                     MysqlConn.ExecuteDataInsert("address", slist);
-                    //MongoDBConn.ExecuteDataInsert("address" , slist)
                 }
             }              
         }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\signtool\obj\Debug\
+E:\lizhan_git\FindCoin\signtool\obj\Debug\
 signtool
 none
 false
 DEBUG;TRACE
-D:\Software Development\Bots Pachong\Updated FindCoin\FindCoin-master\signtool\App.xaml
+E:\lizhan_git\FindCoin\signtool\App.xaml
 6-252101244
 
 17-2005556314
-74617414169
+15-1433293977
 dialog\Dialog Import_Nep6.xaml;dialog\Dialog Input.xaml;dialog\dialog_MultiSign.xaml;dialog\dialog_importTX.xaml;dialog\dialog_exportTX.xaml;MainWindow.xaml;
 
-True
+False
 
